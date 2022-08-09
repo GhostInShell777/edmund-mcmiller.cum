@@ -1,0 +1,42 @@
+
+div	{
+	border: 8px solid #23264D;
+	border-radius: 15px;
+	padding: 3px;
+}
+body	{
+ background-image: url(https://static.wikia.nocookie.net/bindingofisaac/images/b/bf/Boss_Angel.png/revision/latest?cb=20141128113311&path-prefix=ru);
+ background-color: #c2c3cf;
+
+
+
+
+}
+
+h1	{
+	font-size: 170%; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #FFFFFF;
+
+}
+
+p	{
+	font-size: 100%; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #FFFFFF;
+}
+
+
+b	{
+	font-size: 100%; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #FFFFFF;
+}
+
+button	{
+	font-size: 100%; 
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #000000;
+
+}
+
